@@ -1,0 +1,1 @@
+mkdir -p Desktop/script_ex4/{css/{footer,header,main},img,js} ; touch Desktop/script_ex4/css/footer/style.css ; touch Desktop/script_ex4/css/header/style.css ; touch Desktop/script_ex4/css/main/style.css ; touch Desktop/script_ex4/img/{img1,img2} ; touch Desktop/script_ex4/index.html ; touch Desktop/script_ex4/js/main.js
